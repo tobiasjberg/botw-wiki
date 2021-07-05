@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the start of a wiki app for The Legend of Zelda: Breath of the Wil. It was built from a starter template for [Learn Next.js](https://nextjs.org/learn).
